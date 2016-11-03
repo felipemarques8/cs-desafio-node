@@ -1,7 +1,7 @@
 {
   "name": "desafio-node",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Meu desafio de node.js api",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
