@@ -14,7 +14,7 @@ var config = {
   },
 
   production: {
-    database: MONGO_DB
+    database: 'mongodb://felipemarques8:felipe123@ds063186.mlab.com:63186/csdesafio'
   }
 };
 
